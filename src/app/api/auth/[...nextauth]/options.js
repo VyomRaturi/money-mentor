@@ -45,6 +45,7 @@ export const options = {
     }),
   ],
   pages: {
+    //added signout page
     signIn: '/auth/login',
     signOut: '/auth/login',
   },
