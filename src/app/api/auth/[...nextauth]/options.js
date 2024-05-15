@@ -46,6 +46,7 @@ export const options = {
   ],
   pages: {
     signIn: '/auth/login',
+    signOut: '/auth/login',
   },
   callbacks: {
     async signIn({ user, account }) {
